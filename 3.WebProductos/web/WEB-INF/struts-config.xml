@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts-config PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+        "http://struts.apache.org/dtds/struts-config_1_3.dtd">
+
+<struts-config>
+
+    <form-beans>
+        <form-bean name="categoriaForm" type="controladores_form.CategoriaForm"/>
+        <form-bean name="seleccionForm" type="controladores_form.SeleccionForm"/>
+    </form-beans>
+
+    <action-mappings>
+        <action name="categoriaForm" path="/ingresar" scope="request" type="controladores_action.CategoriaAction">
+            <forward name="categoriajsp" path="/categoria.jsp"/>
+        </action>
+
+        <action name="seleccionForm" path="/listado" scope="request" type="controladores_action.ProductoAction">
+            <forward name="productojsp" path="/producto.jsp"/>
+        </action>
+    </action-mappings>
+
+</struts-config>
