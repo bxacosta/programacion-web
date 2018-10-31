@@ -6,97 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a992958-bdc6-4244-acde-086dd4346fab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2.WebProgramacion/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.WebProgramacion/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.WebProgramacion/src/clases/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.WebProgramacion/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/controllers/PersonaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/entities/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/repositories/PersonaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/1_WebPractica1_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/1_WebPractica1_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/1_WebPractica1_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/suma.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/antlr.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-beanutils.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-chain.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-digester.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-fileupload.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-io.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-logging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/commons-validator.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/oro.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/struts-core.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/lib/struts-taglib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/src/controladores_action/OperacionAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/src/controladores_form/ValidacionForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/src/modelo/OperacionesBasicas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/web/WEB-INF/struts-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/web/resultado.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.WebOperaciones/web/webIngreso.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/antlr.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-beanutils.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-chain.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-digester.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-fileupload.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-io.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-logging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/commons-validator.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/oro.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/struts-core.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/lib/struts-taglib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/controladores_action/CategoriaAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/controladores_action/ProductoAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/controladores_form/CategoriaForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/controladores_form/ProductosBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/controladores_form/SeleccionForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/modelo/ConexionDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/src/modelo/GestionProductos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/web/WEB-INF/struts-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/web/categoria.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/web/ingreso.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.WebProductos/web/producto.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/antlr.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-beanutils.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-chain.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-digester.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-fileupload.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-io.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-logging.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/commons-validator.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/oro.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/struts-core.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/lib/struts-taglib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/MessageResources.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/controladores_action/RegitrarAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/controladores_action/ValidarAction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/controladores_form/RegistroForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/controladores_form/ValidacionForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/model/Datos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/src/model/GestionClientes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/WEB-INF/struts-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/WEB-INF/validation.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/bienvenida.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.WebClientes/web/registro.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/controllers/CategoriaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/controllers/CategoriaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/controllers/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/controllers/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/entities/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDatabase/src/main/java/com/bxacosta/entities/Cliente.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a992958-bdc6-4244-acde-086dd4346fab" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -164,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/suma.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-49">
+            <state relative-caret-position="83">
               <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
             </state>
           </provider>
@@ -271,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3.WebProgramacion" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -375,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539558951755</updated>
       <workItem from="1539558965252" duration="1448000" />
-      <workItem from="1540945010597" duration="1861000" />
+      <workItem from="1540945010597" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3309000" />
+    <option name="totallyTimeSpent" value="4032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -423,6 +333,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/clases/BeanOperacion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -432,15 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/suma.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
+        <state relative-caret-position="83">
           <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
