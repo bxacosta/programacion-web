@@ -5,6 +5,6 @@
          version="4.0">
 
     <welcome-file-list>
-        <welcome-file>suma.jsp</welcome-file>
+        <welcome-file>consulta.jsp</welcome-file>
     </welcome-file-list>
 </web-app>

@@ -5,31 +5,31 @@ import lombok.Data;
 
 import javax.persistence.*;
 
-@Data
 @Entity
+@Data
 @AllArgsConstructor
-public class Cliente {
+public class Persona {
 
     @Id
-    @Column(name = "cliente_id")
+    @Column(name = "persona_id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+    @Column
+    private String cedula;
     @Column
     private String nombre;
     @Column
     private String apellido;
     @Column
-    private String usuario;
-    @Column
-    private String password;
-    @Column
-    private String email;
+    private String sexo;
 
-    public Cliente(String nombre, String apellido, String usuario, String password, String email) {
+    public Persona() {
+    }
+
+    public Persona(String cedula, String nombre, String apellido, String sexo) {
+        this.cedula = cedula;
         this.nombre = nombre;
         this.apellido = apellido;
-        this.usuario = usuario;
-        this.password = password;
-        this.email = email;
+        this.sexo = sexo;
     }
 }

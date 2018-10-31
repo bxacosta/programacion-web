@@ -2,13 +2,9 @@ package com.bxacosta.controllers;
 
 import com.bxacosta.entities.Categoria;
 import com.bxacosta.repositories.CategoriaRepository;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import java.net.URI;
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 public class CategoriaController {
