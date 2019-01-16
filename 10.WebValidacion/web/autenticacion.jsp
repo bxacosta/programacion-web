@@ -29,7 +29,6 @@
                 <html:reset value="Limpiar"/></td>
         </tr>
     </table>
-
 </html:form>
 </body>
 </html>
